@@ -1,7 +1,19 @@
 #EXTM3U
 
 
-#EXTINF:-1,USA: NFL Network HD
-#EXTINF:-1,IN: 9X Jhakaas
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network 1 US" tvg-logo="" group-title="United States",NFL 
+Network 1 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cumu/504.ts&amp;s
+treamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network 1080i US" tvg-logo="" group-title="United 
+States",NFL Network 1080i US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cumu/505.ts&amp;s
+treamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD US" tvg-logo="" group-title="United States",NFL 
+Network HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cumu/556.ts&amp;s
+treamtype=TSDOWNLOADER&amp;name=BlissTv
 
 
