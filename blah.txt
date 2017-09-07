@@ -1,4 +1,54 @@
 #EXTM3U
+
+
+#EXTINF:-1,NFL NOW
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL NETWORK
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL Red Zone
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 1 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 10 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 12 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 13 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 2 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 3 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 4 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 5 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 6 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/359.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 7 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 9 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/356.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 11 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL SUNDAY TICKET 8 HD
+plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/racecar1/racecar1/357.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1 tvg-id="" tvg-name="NFL Network 1 US" tvg-logo="" group-title="United States",NFL 
 Network 1 US
 plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cumu/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
@@ -10,5 +60,83 @@ plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cu
 #EXTINF:-1 tvg-id="" tvg-name="NFL Network HD US" tvg-logo="" group-title="United States",NFL 
 Network HD US
 plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cumu/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: NFL Network 1
+plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/luis/luis/5771.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,US: NFL Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Cantinflas
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/990.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || NFL Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2638.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2708.ts&amp;st
+reamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2707.ts&amp;st
+reamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2706.ts&amp;st
+reamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2705.ts&amp;st
+reamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2704.ts&amp;st
+reamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2703.ts&amp;st
+reamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2702.ts&amp;st
+reamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2701.ts&amp;st
+reamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2700.ts&amp;st
+reamtype=TSDOWNLOADER&amp;name=BlissTv
 
 
