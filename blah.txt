@@ -61,6 +61,9 @@ plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cu
 #EXTINF:-1 tvg-id="" tvg-name="NFL Network HD US" tvg-logo="" group-title="United States",NFL Network HD US
 plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cumu/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
+#EXTINF:-1 tvg-id="Sky Sports Mix HD UK" tvg-name="Sky Sports Mix HD UK" tvg-logo="http://195.154.221.171/picons/skysportsmixhduk.png" group-title="United Kingdom",Sky Sports Mix HD UK
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cumu/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 
 
 
