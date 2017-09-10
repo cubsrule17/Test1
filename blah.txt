@@ -1,57 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1,NFL NOW
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL NETWORK
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL Red Zone
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 1 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 10 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 12 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 13 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 2 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 3 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 4 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 5 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 6 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/359.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 7 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 9 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/356.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 11 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NFL SUNDAY TICKET 8 HD
-plugin://plugin.video.f4mTester/?url=http://thepk.co:2095/live/steve123/steve123/357.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="NFL Network 1 US" tvg-logo="" group-title="United States",NFL Network 1 US
 plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/cumu/cumu/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
